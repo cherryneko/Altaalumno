@@ -1,4 +1,4 @@
 <?php
 
-	echo 'Error no existe esa seccion XP';
+	echo 'Error en insercion';
 ?>
